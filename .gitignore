@@ -1,3 +1,12 @@
 .idea
 *.iml
 target
+h2*
+jgfutil*
+section1*
+section2*
+section3*
+test*
+*.DS_Store
+.vscode
+temp.*
